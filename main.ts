@@ -58,7 +58,7 @@ namespace clapSwitch {
     */ 
     //% block weight=0
     //% block='switched'
-    //% block.loc.de='wurde geklatscht?'
+    //% block.loc.de='geklatscht wurde'
     //% jsdoc.loc.de='liefert wahr, wenn geklatscht wurde'
     export function switched() {
         if (clapswitch != oldswitch) {
